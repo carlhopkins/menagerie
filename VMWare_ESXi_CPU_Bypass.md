@@ -1,5 +1,5 @@
-Bypass Unsupported CPU Check
+# VMWare ESXI - Bypass Unsupported CPU Check
 
 The following kernel option can be added to bypass the unsupported CPU check during ESXi installation or upgrade:
 
-allowLegacyCPU=true
+<code>allowLegacyCPU=true</code>
