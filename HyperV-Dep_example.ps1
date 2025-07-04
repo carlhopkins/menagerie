@@ -1,3 +1,5 @@
+# EXAMPLE POWERSHELL SCRIPT FOR LAUNCHING A HYPERV VM, UNKNOWN AUTHOR
+
 $partition = Read-Host -Prompt "Type in which partition would you like to create a virtual machine in"
 $VMname = Read-Host -Prompt "Type name of the server which will be created"
 New-Item "$partition\$VMname" -type directory

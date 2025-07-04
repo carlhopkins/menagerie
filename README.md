@@ -16,3 +16,7 @@
 **VMWare_ESXi_CPU_Bypass.md**, bypass ESXi CPU Check on install.
 
 **Windows_Server_Re-Licencing.md**, Changing Windows Server editions and re-licencing howto.
+
+**Univ-PS-Load.bat**, simple batchfile for pulling and running a powershell script from a repo
+
+**HyperV-Dep_example.ps1**, unknown authored powershell script for provisioning a HyperV VM (reference only)
