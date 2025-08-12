@@ -20,3 +20,5 @@
 **Univ-PS-Load.bat**, simple batchfile for pulling and running a powershell script from a repo
 
 **HyperV-Dep_example.ps1**, unknown authored powershell script for provisioning a HyperV VM (reference only)
+
+**Debian13_Qwerks.md**, list of Debian 13 Trixie install qwerks and changes from Bookworm (extracted from Release Notes)
