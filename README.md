@@ -22,3 +22,5 @@
 **HyperV-Dep_example.ps1**, unknown authored powershell script for provisioning a HyperV VM (reference only)
 
 **Debian13_Qwerks.md**, list of Debian 13 Trixie install qwerks and changes from Bookworm (extracted from Release Notes)
+
+**mk_inventory.vbs**, CheckMK HW/SW inventory Windows Agent plug-in with delay set to 4 days to reduce load
