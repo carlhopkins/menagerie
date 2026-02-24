@@ -24,3 +24,5 @@
 **Debian13_Qwerks.md**, list of Debian 13 Trixie install qwerks and changes from Bookworm (extracted from Release Notes)
 
 **mk_inventory.vbs**, CheckMK HW/SW inventory Windows Agent plug-in with delay set to 4 days to reduce load
+
+**hyperv_heartbeat.ps1**, powershell script to check heartbeat status of HyperV VM and restart if offline. Run as scheduled task.
